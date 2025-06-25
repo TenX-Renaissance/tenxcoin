@@ -16,9 +16,9 @@
 - **Symbol:** TEN  
 - **Total Supply:** 1e30 TEN  
 - **Chain:** BNB Smart Chain  
-- **Contract Address:** `0xYourTokenAddressHere`
+- **Contract Address:** [`0x39ad0b80ea5c6fb7211d00b860a107b1952ff4c8`](https://bscscan.com/token/0x39ad0b80ea5c6fb7211d00b860a107b1952ff4c8)
 
-> Verify contract on [BscScan](https://bscscan.com/) for transparency.
+> Verified contract on [BscScan](https://bscscan.com/token/0x39ad0b80ea5c6fb7211d00b860a107b1952ff4c8)
 
 ## 📄 License
 
